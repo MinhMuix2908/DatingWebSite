@@ -1,0 +1,10 @@
+body{
+	margin:0 auto;
+}
+a:link{
+	text-decoration: none;
+}
+ul,li{
+	display: inline-block;
+}
+
