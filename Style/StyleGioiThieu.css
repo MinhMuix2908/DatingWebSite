@@ -1,0 +1,22 @@
+body{
+	margin:0px auto;
+}
+a:link{
+	text-decoration: none;
+}
+a:visited { 
+	color: white;
+}
+
+ul,li{
+	display: inline-block;
+}
+.mySlides{
+	height: 50%; 	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h2{
+	text-align: center;
+}
