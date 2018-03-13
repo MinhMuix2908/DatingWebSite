@@ -1,90 +1,131 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Giới thiệu</title>
+	<title>Trang giới thiệu</title>
 	<meta charset="UTF-8"/>
-	<link rel="stylesheet" type="text/css" href="Style/StyleGioiThieu.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<script src="lib/bootstrap4/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap4/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style/styleindex.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
-	<div class="header">
-		<div id="HeaderLienHe" style="background-color: #efefef; width: 100%; height: 30px; ">
-			<div style="width: 25%; float:left; position: relative;  height: 30px; text-align: center;">
-				<a href="https://www.facebook.com/minhmui2908" >Theo dõi chúng tôi trên Facebook</a>
-			</div>
-			<div style="width: 55%; float: left; position: relative;  height: 30px;"></div>
-			<div style="width: 20%; float:right; position: relative; height: 30px; text-align: left; ">
-				Liên hệ: 01236664325
-			</div>
-		</div>
-		<div id="banner" style=" height: 110px; ">
-			<div id="LeftBanner" style=" height: 110px; width:40%; float: left; background-color: none; ">
-				<a href="Index.html"><img src="Images/logo.png" alt="ảnh logo ở đây" height="90px" style="margin-left: 20%; margin-top: 2%"></a>
-			</div>
-			<div id="CenterBanner" style="background-color: none; float: left; width: 35%; height: 110px;">
-				<form action="/action_page.php" style="margin-top: 5%; margin-left: 5%">
-					<input type="text" placeholder="Search.." name="search"; style="width: 75%; height: 45px" ">
-					<button type="submit" style="width: 20%; height: 50px">Tìm kiếm</button>
-				</form>
-			</div>
-			<div id="RightBanner" style="float: right; width: 25%; height: 110px; background-color: none; ">
+	<div class="container-fluid">
+		<div class="row header1"> <!-- FB và liên hệ-->
+			<div class="col-md-1">
+				<!-- không có gì cả
+					có thể sử dụng col-md-offset-1 ở col dưới-->
 
-				<div style="margin-left:10%; ">
+				</div>
+				<div class="col-md-5">
+					<p>
+						<a href="https://facebook.com/minhmui2908">Liên hệ qua Facebook</a>
+					</p>
+
+				</div>
+				<div class="col-md-1">
+					<!-- không có gì cả-->
+
+
+				</div>
+
+				<div class="col-md-3">
+					<!-- không có gì cả-->
+
+				</div>
+
+				<div class="col-md-2">
+					<table>
+						<tr>
+							<td>Hotline &nbsp;	</td>
+							<td><i>01236664325</i></td>
+						</tr>
+						<tr>
+							<td>Ship &nbsp;</td>
+							<td><i>0869002850</i></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="row header2"  > <!-- banner + search bar + giỏ hàng -->
+				<div class="col-md-4 ">
+					<!-- Logo banner cửa hàng ở đây -->
+					<img src="images/logothefaceshop.png" alt="logo cửa hàng ở đây">
+				</div>
+
+				<div class="col-md-4">
+					<!-- searchbar ở đây -->
+					<form action="">
+						<input type="text" id="searchbar" placeholder="Tìm kiếm..." name="search" >
+						<button type="submit" style="height: 50px">Tìm kiếm</button>
+					</form>
+				</div>
+
+				<div class="col-md-4" style="text-align: center;">
+					<!-- chuyển tới giỏ hàng -->
 					<p>Giỏ hàng của bạn:</p>
 					<i class="material-icons">&#xe547;</i>
 				</div>
 
 			</div>
-		</div>
-		<div id="MenuBar" style="height: 40px; width: 100%; background-color: #c98a4e;">
-			<ul style=" margin-left: 0; margin-top: 10px; font-size: 20px; text-indent: 15px">
-				<li><a href="Index.html">Trang chủ</a></li>
-				<li><a href="GioiThieu.html">Giới thiệu</a></li>
-				<li><a href="Sanpham.html">Sản phẩm</a></li>
-				<li><a href="Blog.html">Blog làm đẹp</a></li>
-				<li><a href="LienHe.html">Liên hệ</a></li>
-			</ul>
-		</div>
-	</div>
-	<div class="container" style="width: 80%; margin-left: 10%">
-		<div>
-			<h2>
-				Chất lượng
-			</h2>
-			<p>
-				Sản phẩm của chúng tôi cam kết đảm bảo chất lượng tốt nhất
-			</p>
-			<h2>
-				Tận tâm
-			</h2>
-			<p>
-				Đây là trang web bán hàng các sản phẩm son làm đẹp và hỗ trợ làm đẹp, các bệnh về môi, tư vấn Nhiệt Tình chuyên môn cao của đội ngũ tư vấn. Chúng tôi cung cấp quy trình chuẩn để giúp bạn duy trì vẻ đẹp tự nhiên của làn da...
-			</p>
-		</div>
-		<script src="JavaScript/jquery-3.3.1.min.js"></script>
-		<script src="JavaScript/ScriptIndex.js" charset="utf-8"></script>
-	</div>
-	<div class="footer" style="background-color: #c98a4e ; height: 300px	">
-		<div  style="height: 40px; width: 100%; text-indent: 15px ;" >
-			<ul>
-				<li style="float: left; width: 30% ; position: relative; margin-left: 15%">Cam kết bán sản phẩm chính hãng chất lượng tốt nhất với giá thành rẻ
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</li>
-				<li style="float: left; position: relative; width: 30%; margin-left: 10%"> 
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<br>
+			<br>
+			<br>
+			<div class="row navimenu">
+				<div class="col-md-1"></div>
+				<div class="col-md-1 navibutton"><a href="Index.html">Trang chủ</a></div>
+				<div class="col-md-1 navibutton"><a href="GioiThieu.html">Giới thiệu</a></div>
+				<div class="col-md-1 dropdown">
+					<button class="dropbtn">Sản phẩm</button>
+					<div class="dropdown-content">
+						<a href="">Son 3CE</a>
+						<a href="#">Son Mac</a>
+						<a href="#">Son Shu</a>
+						<a href="">Son The Palm</a>
+						<a href="#">Son YSL</a>
+					</div>
+				</div>
+				<div class="col-md-1 navibutton"><a href="Blog.html">Blog xinh</a></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1 navibutton"><a href="LienHe.html">Liên hệ</a></div>
+			</div>
+			<br>
+			<br>
+			<br>
+			
 
-				</li>
-			</ul>
+			
+			<div class="container" class="col-sm-12"> <div class="row"> <div class="col-sm-12 center-column"> <h2 id="title-page">Merry Shop</h2> <div style="padding-bottom: 10px"><h2 style="text-align: center; "><b><span style="font-size: 18px;"><font face="Arial">TẬN HƯỞNG VẺ ĐẸP CHĂM SÓC DA</font></span></b><b><span style="font-size: 18px;"><font face="Arial">&nbsp;TẠI MERRYSHOPS.COM</font></span></b></h2><p style="text-align: center; "><font face="Arial"><br></font></p><h3><font face="Arial">Nơi chăm sóc da lý tưởng</font></h3><p><font face="Arial"><span style="font-size: 18px;">- Với hàng trăm ngàn sản phẩm đa dạng thuộc những ngành hàng khác nhau từ sức khỏe và sắc đẹp, </span><font color="#00ff00"><span style="font-size: 18px;">Merry Shop</span></font><span style="font-size: 18px;"> sẽ đáp ứng tất cả nhu cầu mua sắm của bạn.</span></font></p><p><font face="Arial"><span style="font-size: 18px;">- Bên cạnh những sản phẩm đến từ các thương hiệu quốc tế và Việt Nam, bạn cũng có thể tìm thấy nhiều sản phẩm độc quyền chỉ có duy nhất tại Merry Shop.</span></font></p><h3><font face="Arial">Mua sắm dễ dàng và thuận tiện</font></h3><p><font face="Arial"><span style="font-size: 18px;">- Không còn phải lo kẹt xe, đông đúc và xếp hàng dài chờ đợi! Giờ đây, bạn có thể mua sắm bất cứ khi nào, ở bất cứ đâu trên máy tính và điện thoại di động của mình.</span></font></p><p><font face="Arial"><span style="font-size: 18px;">- Với dịch vụ chuyển hàng nhanh chóng và đáng tin cậy, bạn chỉ cần ngồi thư giãn tại nhà và món hàng sẽ được giao đến tận nơi.</span></font></p><h3><font face="Arial">Mua sắm an toàn và đảm bảo</font></h3><p><font face="Arial"><span style="font-size: 18px;">- Hiểu được tầm quan trọng của việc mua sắm an toàn và đảm bảo, chúng tôi cung cấp cho khách hàng nhiều lựa chọn thanh toán an ninh bao gồm cả thanh toán khi nhận được hàng, nghĩa là bạn chỉ trả tiền khi đã nhận được món hàng của mình.</span></font></p><p><font face="Arial"><span style="font-size: 18px;">- Bảo đảm về chất lượng và tính xác thực: Tất cả các giao dịch trên Merry Shop đều được đảm bảo là sản phẩm chính hãng, mới, không khiếm khuyết hay hư hỏng. Nếu không, bạn có thể hoàn trả.</span></font></p></div> </div> </div> </div>
+
+			
+			
+			<br>
+			<br>
+			<div class="row copyrightfooter">
+				<!-- Đoạn này viết foot dưới cùng của tất cả các trang-->
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"><a href="Index.html">Trang chủ</a></div>
+				<div class="col-md-1"><a href="Index.html">Thông tin</a></div>
+				<div class="col-md-1"><a href="GioiThieu.html">Giới thiệu</a></div>
+				<div class="col-md-1"><a href="LienHe.html">Liên hệ</a></div>
+
+				
+			</div>
+			<div class="row">
+				<p >
+					<b>Copyright 2017-2018 </b>	
+					<br>&copy; Team bài tập lớn lập trình Web của thầy Dũng
+				</p>
+
+			</div>
+			<script src="JS/jsindex.js" type="text/javascript" charset="utf-8" async defer></script>
 		</div>
-	</div>
-</body>
-</html>
+	</body>
+	</html>
