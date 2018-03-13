@@ -1,88 +1,272 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trang chủ</title>
+	<title>Trang Index</title>
 	<meta charset="UTF-8"/>
-  <link rel="stylesheet" type="text/css" href="Style/StyleIndex.css">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<script src="lib/bootstrap4/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap4/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style/styleindex.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
-  <div class="header">
-    <div id="HeaderLienHe" style="background-color: #efefef; width: 100%; height: 30px; ">
-      <div style="width: 25%; float:left; position: relative;  height: 30px; text-align: center;">
-        <a href="https://www.facebook.com/minhmui2908" >Theo dõi chúng tôi trên Facebook</a>
-      </div>
-      <div style="width: 55%; float: left; position: relative;  height: 30px;"></div>
-      <div style="width: 20%; float:right; position: relative; height: 30px; text-align: left; ">
-        Liên hệ: 01236664325
-      </div>
-    </div>
-    <div id="banner" style=" height: 110px; ">
-      <div id="LeftBanner" style=" height: 110px; width:40%; float: left; background-color: none; ">
-        <a href="Index.html"><img src="Images/logo.png" alt="ảnh logo ở đây" height="90px" style="margin-left: 20%; margin-top: 2%"></a>
-      </div>
-      <div id="CenterBanner" style="background-color: none; float: left; width: 35%; height: 110px;">
-        <form action="/action_page.php" style="margin-top: 5%; margin-left: 5%">
-          <input type="text" placeholder="Search.." name="search"; style="width: 75%; height: 45px" ">
-          <button type="submit" style="width: 20%; height: 50px">Tìm kiếm</button>
-        </form>
-      </div>
-      <div id="RightBanner" style="float: right; width: 25%; height: 110px; background-color: none; ">
+	<div class="container-fluid">
+		<div class="row header1"> <!-- FB và liên hệ-->
+			<div class="col-md-1">
+				<!-- không có gì cả
+					có thể sử dụng col-md-offset-1 ở col dưới-->
 
-        <div style="margin-left:10%; ">
-          <p>Giỏ hàng của bạn:</p>
-          <i class="material-icons">&#xe547;</i>
-        </div>
+				</div>
+				<div class="col-md-5">
+					<p>
+						<a href="https://facebook.com/minhmui2908">Liên hệ qua Facebook</a>
+					</p>
 
-      </div>
-    </div>
-    <div id="MenuBar" style="height: 40px; width: 100%; background-color: #c98a4e;">
-      <ul style=" margin-left: 0; margin-top: 10px; font-size: 20px; text-indent: 15px">
-        <li><a href="Index.html">Trang chủ</a></li>
-        <li><a href="GioiThieu.html">Giới thiệu</a></li>
-        <li><a href="Sanpham.html">Sản phẩm</a></li>
-        <li><a href="Blog.html">Blog làm đẹp</a></li>
-        <li><a href="LienHe.html">Liên hệ</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="container">
-    <div id="SlideShow" style=" width: 100%;">
-      <div class="w3-content w3-section" style="position: absolute; overflow: hidden; max-width: 100%; width: 100%; height: 350px; max-height: 100% ">
-        <img class="mySlides" src="Images/banner3.jpg" width="100%" >
-        <img class="mySlides" src="Images/banner2-1.jpg" width="100%" >
-      </div>
+				</div>
+				<div class="col-md-1">
+					<!-- không có gì cả-->
 
-    </div>
-    <div style="height: 350px"></div>
-    <div class="content">
-      
-    </div>
-    <script src="JavaScript/jquery-3.3.1.min.js"></script>
-    <script src="JavaScript/ScriptIndex.js" charset="utf-8"></script>
-  </div>
-  <div class="footer" style="background-color: #c98a4e ; height: 300px ; float: bottom; position: relative; ">
-    <div  style="height: 40px; width: 100%; text-indent: 15px ;" >
-      <ul>
-        <li style="float: left; width: 30% ; position: relative; margin-left: 15%">Cam kết bán sản phẩm chính hãng chất lượng tốt nhất với giá thành rẻ
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </li>
-        <li style="float: left; position: relative; width: 30%; margin-left: 10%"> 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-        </li>
-      </ul>
-    </div>
-  </div>
-</body>
-</html>
+				</div>
+
+				<div class="col-md-3">
+					<!-- không có gì cả-->
+
+				</div>
+
+				<div class="col-md-2">
+					<table>
+						<tr>
+							<td>Hotline &nbsp;	</td>
+							<td><i>01236664325</i></td>
+						</tr>
+						<tr>
+							<td>Ship &nbsp;</td>
+							<td><i>0869002850</i></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="row header2"  > <!-- banner + search bar + giỏ hàng -->
+				<div class="col-md-4 ">
+					<!-- Logo banner cửa hàng ở đây -->
+					<img src="images/logothefaceshop.png" alt="logo cửa hàng ở đây">
+				</div>
+
+				<div class="col-md-4">
+					<!-- searchbar ở đây -->
+					<form action="">
+						<input type="text" id="searchbar" placeholder="Tìm kiếm..." name="search" >
+						<button type="submit" style="height: 50px">Tìm kiếm</button>
+					</form>
+				</div>
+
+				<div class="col-md-4" style="text-align: center;">
+					<!-- chuyển tới giỏ hàng -->
+					<p>Giỏ hàng của bạn:</p>
+					<i class="material-icons">&#xe547;</i>
+				</div>
+
+			</div>
+			<br>
+			<br>
+			<br>
+			<div class="row navimenu">
+				<div class="col-md-1"></div>
+				<div class="col-md-1 navibutton"><a href="Index.html">Trang chủ</a></div>
+				<div class="col-md-1 navibutton"><a href="GioiThieu.html">Giới thiệu</a></div>
+				<div class="col-md-1 dropdown">
+					<button class="dropbtn">Sản phẩm</button>
+					<div class="dropdown-content">
+						<a href="">Son 3CE</a>
+						<a href="#">Son Mac</a>
+						<a href="#">Son Shu</a>
+						<a href="">Son The Palm</a>
+						<a href="#">Son YSL</a>
+					</div>
+				</div>
+				<div class="col-md-1 navibutton"><a href="Blog.html">Blog xinh</a></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1 navibutton"><a href="LienHe.html">Liên hệ</a></div>
+			</div>
+			<br>
+			<br>
+			<br>
+			<div class="row">
+
+				<div class="carousel1">
+					<img class="mySlides" src="Images/banner3.jpg" alt="1" width="100%" >
+					<img class="mySlides" src="Images/banner2-1.jpg" alt="2" width="100%" >
+				</div>
+			</div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div class="container">
+				
+				<div class="row productor">
+					<div class="col-md-3">
+						<img src="images/coverbj.jpg" alt="ảnh bìa hãng" width="85%" >
+						<br>
+						<br>
+						<br>
+						
+					</div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<div class="row infosp">
+							
+							Tên son <br>
+							Giá
+							
+						</div>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+
+				</div>
+
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+
+				<div class="row productor">
+					<div class="col-md-3">
+						<img src="images/coverbj.jpg" alt="ảnh bìa hãng" width="85%" >
+						<br>
+						<br>
+						<br>
+						
+					</div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<div class="row infosp">
+							
+							Tên son <br>
+							Giá
+							
+						</div>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+
+				</div>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<div class="row productor">
+					<div class="col-md-3">
+						<img src="images/coverbj.jpg" alt="ảnh bìa hãng" width="85%" >
+						<br>
+						<br>
+						<br>
+						
+					</div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<div class="row infosp">
+							
+							Tên son <br>
+							Giá
+							
+						</div>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+					<div class="col-md-1"></div>
+					<div class="col-md-2 sp">
+						<img src="images/bj1.jpg" alt="">
+						<br>
+						<br>
+						<br>
+					</div>
+
+				</div>
+
+
+			</div>
+			
+
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div class="row copyrightfooter">
+				<!-- Đoạn này viết foot dưới cùng của tất cả các trang-->
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1"><a href="Index.html">Trang chủ</a></div>
+				<div class="col-md-1"><a href="Index.html">Thông tin</a></div>
+				<div class="col-md-1"><a href="GioiThieu.html">Giới thiệu</a></div>
+				<div class="col-md-1"><a href="LienHe.html">Liên hệ</a></div>
+
+				
+			</div>
+			<div class="row">
+				<p >
+					<b>Copyright 2017-2018 </b>	
+					<br>&copy; Team bài tập lớn lập trình Web của thầy Dũng
+				</p>
+
+			</div>
+			<script src="JS/jsindex.js" type="text/javascript" charset="utf-8" async defer></script>
+		</div>
+	</body>
+	</html>
