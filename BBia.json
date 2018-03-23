@@ -1,76 +1,76 @@
 {
-    "array":[
+	"array":[
     {
         "id":"bbia1",
-        "name":"Son BBia 01",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia01.jpg"
+ 		"name":"Son BBia 01",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia01.jpg"
     },
     {
         "id":"bbia2",
-        "name":"Son BBia 02",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia0.2jpg"
-
+ 		"name":"Son BBia 02",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia02.jpg"
     },
     {
         
         "id":"bbia3",
-        "name":"Son BBia 03",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia03.jpg"
+ 		"name":"Son BBia 03",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia03.jpg"
     },
     {
+    
         "id":"bbia4",
-        "name":"Son BBia 04",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia04.jpg"
+ 		"name":"Son BBia 04",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia04.jpg"
     },
     {
         "id":"bbia5",
-        "name":"Son BBia 05",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia05.jpg"
+ 		"name":"Son BBia 05",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia05.jpg"
     },
     {
         "id":"bbia6",
-        "name":"Son BBia 07",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia07.jpg"
+ 		"name":"Son BBia 07",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia07.jpg"
     },
     {
         "id":"bbia7",
-        "name":"Son BBia 08",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp,
-        "link":"images/bbia08.jpg"
+ 		"name":"Son BBia 08",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia08.jpg"
     },
     {
         "id":"bbia8",
-        "name":"Son BBia 09",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia09.jpg"
+ 		"name":"Son BBia 09",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia09.jpg"
     },
     {
         "id":"bbia9",
-        "name":"Son BBia 11",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia11.jpg"
+ 		"name":"Son BBia 11",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia11.jpg"
     },
     {
         "id":"bbia10",
-        "name":"Son BBia 12",
-        "price":"200000",
-        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
-        "link":"images/bbia12.jpg"
+ 		"name":"Son BBia 12",
+ 		"price":"200000",
+ 		"description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+		"link":"images/bbia12.jpg"
     }
   ]
 }
