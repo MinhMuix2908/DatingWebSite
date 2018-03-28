@@ -28,7 +28,7 @@ a:visited {
 }
 .navibutton{
 	background-color: white;
-	height: 35px;
+	height: auto;
 	font-size: 122%;
 	text-align: center;
 	padding: auto;
