@@ -1,74 +1,74 @@
 {
 	"array":[
-        {
-            "id":"ysl1",
-            "name":"Son YSL 201",
-            "price":"850000",
-            "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-            "link":"images/YSL/ysl201.jpg"
-        },
-        {
-           "id":"ysl2",
-           "name":"Son YSL 202",
-           "price":"850000",
-           "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-           "link":"images/YSL/ysl202.jpg"
-       },
-       {
-        "id":"ysl3",
-        "name":"Son YSL 203",
-        "price":"850000",
-        "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-        "link":"images/YSL/ysl203.jpg"
+    {
+      "id":"ysl1",
+      "name":"Son YSL 201",
+      "price":"850000",
+      "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+      "link":"images/YSL/ysl201.jpg"
     },
     {
-       "id":"ysl4",
-       "name":"Son YSL 204",
-       "price":"850000",
-       "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-       "link":"images/YSL/ysl204.jpg"
+     "id":"ysl2",
+     "name":"Son YSL 202",
+     "price":"850000",
+     "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+     "link":"images/YSL/ysl202.jpg"
    },
    {
-       "id":"ysl5",
-       "name":"Son YSL 205",
-       "price":"850000",
-       "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-       "link":"images/YSL/ysl205.jpg"
-   },
-   {
-    "id":"ysl6",
-    "name":"Son YSL 206",
+    "id":"ysl3",
+    "name":"Son YSL 203",
     "price":"850000",
     "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-    "link":"images/YSL/ysl206.jpg"
+    "link":"images/YSL/ysl203.jpg"
+  },
+  {
+   "id":"ysl4",
+   "name":"Son YSL 204",
+   "price":"850000",
+   "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng.Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+   "link":"images/YSL/ysl204.png"
+ },
+ {
+   "id":"ysl5",
+   "name":"Son YSL 205",
+   "price":"850000",
+   "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+   "link":"images/YSL/ysl205.jpg"
+ },
+ {
+  "id":"ysl6",
+  "name":"Son YSL 206",
+  "price":"850000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl206.jpg"
 },
 {
-    "id":"ysl7",
-    "name":"Son YSL 207",
-    "price":"850000",
-    "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-    "link":"images/YSL/ysl207.jpg"
+  "id":"ysl7",
+  "name":"Son YSL 207",
+  "price":"850000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl207.jpg"
 },
 {
-    "id":"ysl8",
-    "name":"Son YSL 208",
-    "price":"850000",
-    "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-    "link":"images/YSL/ysl208.jpg"
+  "id":"ysl8",
+  "name":"Son YSL 208",
+  "price":"850000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl208.jpg"
 },
 {
-    "id":"ysl9",
-    "name":"Son YSL 209",
-    "price":"850000",
-    "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-    "link":"images/YSL/ysl209.jpg"
+  "id":"ysl9",
+  "name":"Son YSL 209",
+  "price":"850000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl209.jpg"
 },
 {
-    "id":"ysl10",
-    "name":"Son YSL 210",
-    "price":"850000",
-    "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
-    "link":"images/YSL/ysl210.jpg"
+  "id":"ysl10",
+  "name":"Son YSL 210",
+  "price":"850000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl210.jpg"
 }
 ]
 }
