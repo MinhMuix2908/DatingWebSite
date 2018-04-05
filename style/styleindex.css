@@ -24,10 +24,7 @@ a:visited {
 .navimenu{
 	background-color: gray;
 	border: 1px solid gray;
-<<<<<<< HEAD
 
-=======
->>>>>>> be51ab47288e92b48ebabf56136d1d4788f5c55a
 
 }
 .navibutton{
@@ -109,15 +106,9 @@ a:visited {
 .sp{
 
 	margin: 2px 2px 2px 2px;
-<<<<<<< HEAD
 	background-color: #fff;
 	border: 1px solid grey;
 	box-shadow: 1px 1px 5px 1px grey;
-=======
-background-color: #fff;
-border: 1px solid grey;
-box-shadow: 1px 1px 5px 1px grey;
->>>>>>> be51ab47288e92b48ebabf56136d1d4788f5c55a
 }
 img{
 	overflow: hidden;
