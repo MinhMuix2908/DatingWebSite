@@ -1,72 +1,70 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trang giới thiệu</title>
+	<title>Trang Index</title>
 	<meta charset="UTF-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="viewxrt" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<script src="lib/bootstrap4/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap4/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="style/styleindex.css">
+
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script src="lib/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="JS/jsindex.js" type="text/javascript" charset="utf-8" async defer></script>
+
 </head>
-<body>
+<body onload="loadindex()">
 	<div class="container-fluid">
 		<div class="row header1"> <!-- FB và liên hệ-->
+
+			<div style="padding: 0px 56px;" class="col-md-5">
+				<p>
+					<a href="https://facebook.com/minhmui2908">Liên hệ qua Facebook</a>
+				</p>
+
+			</div>
 			<div class="col-md-1">
-				<!-- không có gì cả
-					có thể sử dụng col-md-offset-1 ở col dưới-->
+				<!-- không có gì cả-->
 
-				</div>
-				<div class="col-md-5">
-					<p>
-						<a href="https://facebook.com/minhmui2908">Liên hệ qua Facebook</a>
-					</p>
-
-				</div>
-				<div class="col-md-1">
-					<!-- không có gì cả-->
-
-				</div>
-
-				<!-- <div class="col-md-3"> -->
-					<!-- không có gì cả-->
-					<div style = "text-align: right;" class="col-md-5">
-						<span>
-							Hotline:  	<span style = "color: blue;">01236664325</span>
-						</span>
-						&nbsp;
-						<span>
-								Ship:  	<span style = "color: blue;">0869002850</span>
-						</span>
-
-
-						</p>
-					</div>
-
-				</div>
 
 			</div>
-			<div class="row header2"  > <!-- banner + search bar + giỏ hàng -->
-				<div class="col-md-4 " style="align:right">
-					<!-- Logo banner cửa hàng ở đây -->
-					<img src="images/logo.png" alt="logo cửa hàng ở đây">
-				</div>
 
-				<div class="col-md-4">
 
-					<form action="">
-						<input type="text" id="searchbar" placeholder="Tìm kiếm..." name="search" >
-						<button type="submit" style="height:25px">Tìm kiếm</button>
-					</form>
-				</div>
+			<div style = "text-align: right;" class="col-md-5">
+				<p>
+				<span>
+					Hotline:  	<span style = "color: blue;">01236664325</span>
+				</span>
+				&nbsp;
+				<span>
+						Ship:  	<span style = "color: blue;">0869002850</span>
+				</span>
 
-				<div class="col-md-4" style="text-align: center;">
 
-					<p>Giỏ hàng của bạn:</p>
-					<i class="material-icons">&#xe547;</i>
-				</div>
+				</p>
+			</div>
+		</div>
+		<div class="row header2"  > <!-- banner + search bar + giỏ hàng -->
+			<div class="col-md-4 ">
+				<!-- Logo banner cửa hàng ở đây -->
+				<img src="images/logo.png" alt="logo cửa hàng ở đây">
+			</div>
+
+			<!--
+
+			<div class="col-md-4">
+				searchbar ở đây
 
 			</div>
+
+			<div class="col-md-4" style="text-align: center;">
+				 giỏ hàng
+			</div>
+			-->
+
+
+	</div>
+
 
 			<div class="row navimenu">
 				<div class="col-md-2"></div>
