@@ -7,7 +7,7 @@
 	<script src="lib/bootstrap4/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap4/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="style/styleindex.css">
-
+	<link href="admin/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<script src="lib/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8" async defer></script>
 	<script src="JS/jsindex.js" type="text/javascript" charset="utf-8" async defer></script>
@@ -23,57 +23,54 @@
 				</p>
 
 			</div>
-			<div class="col-md-1">
-				<!-- không có gì cả-->
-
-
-			</div>
-
+			<div class="col-md-1"></div>
+			
 
 			<div style = "text-align: right;" class="col-md-5">
 				<p>
-				<span>
-					Hotline:  	<span style = "color: blue;">01236664325</span>
-				</span>
-				&nbsp;
-				<span>
-						Ship:  	<span style = "color: blue;">0869002850</span>
-				</span>
+					<span>
+						Hotline:  	<span style = "color: blue;"><a href="tel:01236664325">01236664325</a></span>
+					</span>
+					&nbsp;
+					<span>
+						Ship:  	<span style = "color: blue;"><a href="tel:0869002850">0869002850</a></span>
+					</span>
 
 
 				</p>
 			</div>
 		</div>
 		<div class="row header2"  > <!-- banner + search bar + giỏ hàng -->
-			<div class="col-md-4 ">
+			<div class="col-md-4 " style="margin:auto; " >
 				<!-- Logo banner cửa hàng ở đây -->
 				<img src="images/logo.png" alt="logo cửa hàng ở đây">
 			</div>
 
-			<!--
+			<div class="col-md-4" style="margin:auto; ">
 
-			<div class="col-md-4">
-				searchbar ở đây
-
+				<form action="">
+					<input type="text" id="searchbar" placeholder="Tìm kiếm..." name="search" >
+					<button type="submit" style="height: 50px; width: 50px"> <i class="fa fa-search"></i> </button>
+				</form>
 			</div>
 
-			<div class="col-md-4" style="text-align: center;">
-				 giỏ hàng
+			<div class="col-md-4" style="text-align: center; margin:auto;">
+
+				<p>Giỏ hàng của bạn:</p>
+				<i class="material-icons">&#xe547;</i>
 			</div>
-			-->
+
+		</div>
 
 
-	</div>
-
-
-			<div class="row navimenu">
-				<div class="col-md-2"></div>
-				<div class="col-md-2 navibutton"><a href="Index.html">Trang chủ</a></div>
-				<div class="col-md-2 navibutton"><a href="GioiThieu.html">Giới thiệu</a></div>
-				<div class="col-md-2 navibutton"><a href="SanPham.html">Sản phẩm</a></div>
-				<div class="col-md-2 navibutton"><a href="LienHe.html">Liên hệ</a></div>
-				<div class="col-md-2"></div>
-			</div>
+		<div class="row navimenu">
+			<div class="col-md-2"></div>
+			<div class="col-md-2 navibutton"><a href="Index.html">Trang chủ</a></div>
+			<div class="col-md-2 navibutton"><a href="GioiThieu.html">Giới thiệu</a></div>
+			<div class="col-md-2 navibutton"><a href="SanPham.html">Sản phẩm</a></div>
+			<div class="col-md-2 navibutton"><a href="LienHe.html">Liên hệ</a></div>
+			<div class="col-md-2"></div>
+		</div>
 			<br>
 			<div class="container" class="col-sm-12">
 				<div class="row">
