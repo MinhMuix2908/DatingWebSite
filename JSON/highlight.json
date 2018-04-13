@@ -1,0 +1,174 @@
+{
+    "array":[
+        {
+            "id":"sh1",
+            "name":"Son Shu 144",
+            "price":"560000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu144.jpg"
+        },
+        {
+            "id":"sh2",
+            "name":"Son Shu 150",
+            "price":"565000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu150.jpg"
+        },
+        {
+            "id":"sh3",
+            "name":"Son Shu 156",
+            "price":"535000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu156.jpg"
+        },
+        {
+            "id":"sh4",
+            "name":"Son Shu 160 ",
+            "price":"525000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu160.png"
+        },
+        {
+            "id":"3ce14",
+            "name":"Son 3CE 805",
+            "price":"320000",
+            "description":"Son 3CE 805 sở hữu tông màu đỏ ruby trẻ trung quyến rũ đang tạo nên cơn sốt trong ngành mỹ phẩm là màu son hot đang được tìm kiếm nhiều . Nếu là một tín đồ son đỏ bạn gái chắc chắn không thể bỏ qua được thỏi son ấn tượng này. Chất son lì mềm mịn môi có pha chút dưỡng nhỏ giúp môi bạn gái trở nên căng mọng tràn đầy sức sống.Không hề kém da  giúp tất cả các cô gái tỏa sáng.",
+            "link":"images/3CE/3ce805.png"
+        },
+        {
+            "id":"3ce3",
+            "name":"Son 3CE 116",
+            "price":"315000",
+            "description":"Son 3CE 116 sở hữu tông màu đỏ ruby trẻ trung quyến rũ đang tạo nên cơn sốt trong ngành mỹ phẩm là màu son hot đang được tìm kiếm nhiều . Nếu là một tín đồ son đỏ bạn gái chắc chắn không thể bỏ qua được thỏi son ấn tượng này. Chất son lì mềm mịn môi có pha chút dưỡng nhỏ giúp môi bạn gái trở nên căng mọng tràn đầy sức sống. Không hề kém da  giúp tất cả các cô gái tỏa sáng.",
+            "link":"images/3CE/3ce116.png"
+        },
+        {
+            "id":"3ce15",
+            "name":"Son 3CE 905",
+            "price":"370000",
+            "description":"Son 3CE 905 sở hữu tông màu đỏ ruby trẻ trung quyến rũ đang tạo nên cơn sốt trong ngành mỹ phẩm là màu son hot đang được tìm kiếm nhiều . Nếu là một tín đồ son đỏ bạn gái chắc chắn không thể bỏ qua được thỏi son ấn tượng này. Chất son lì mềm mịn môi có pha chút dưỡng nhỏ giúp môi bạn gái trở nên căng mọng tràn đầy sức sống. Không hề kém da  giúp tất cả các cô gái tỏa sáng.",
+            "link":"images/3CE/3ce905.png"
+        },
+        {     
+          "id":"3ce16",
+          "name":"Son 3CE 907",
+          "price":"3450000",
+          "description":"Son 3CE 907 sở hữu tông màu đỏ ruby trẻ trung quyến rũ đang tạo nên cơn sốt trong ngành mỹ phẩm là màu son hot đang được tìm kiếm nhiều . Nếu là một tín đồ son đỏ bạn gái chắc chắn không thể bỏ qua được thỏi son ấn tượng này. Chất son lì mềm mịn môi có pha chút dưỡng nhỏ giúp môi bạn gái trở nên căng mọng tràn đầy sức sống. Không hề kém da  giúp tất cả các cô gái tỏa sáng.",
+          "link":"images/3CE/3ce907.png"   
+      },
+      {
+        "id":"ba6",
+        "name":"Son BBia 07",
+        "price":"200000",
+        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+        "link":"images/BBIA/bbia07.jpg"
+    },
+    {
+        "id":"ba7",
+        "name":"Son BBia 08",
+        "price":"2350000",
+        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+        "link":"images/BBIA/bbia08.jpg"
+    },
+    {
+        "id":"ba8",
+        "name":"Son BBia 09",
+        "price":"2400000",
+        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+        "link":"images/BBIA/bbia09.jpg"
+    },
+    {
+        "id":"ba9",
+        "name":"Son BBia 11",
+        "price":"2350000",
+        "description":"Son BBia ‪ là dòng son lì mang thương hiệu BBia Hàn Quốc, chất son mềm mịn, lại bám màu rất lâu. Thiết kế sang trọng quý phái với màu đỏ đậm quyến rũ. Lên môi cực chuẩn và lung linh với sắc đỏ quyến rũ nổi bật.Son Bbia Last Lipstick – Sản phẩm Hot nhất cho các bạn gái cực hot trong bộ sưu tập son mới nhất của Bbia dành cho những nàng đam mê sắc đỏ huyền bí. Đỏ từ ngoài vào trong, từ vỏ hộp cho đến tone màu. Vì màu đỏ vốn là biểu tượng sự quyến rũ của phái đẹp.",
+        "link":"images/BBIA/bbia11.jpg"
+    },
+    {
+        "id":"bj7",
+        "name":"Son Bourjois Velvet 07",
+        "price":"225000",
+        "description":"Son Bourjois velvet 07 là dòng son tạo nên cơn sốt không nhỏ trên thế giới thời gian qua, được các blogger khắp nơi tung hô là dạng son đỉnh của đỉnh, Son velvet 06 với chất son nhiều ưu điểm vượt trội cùng sắc hồng fuchsia kiêu sa, rự rỡ quyến rũ chắc chắn sẽ làm say lòng bạn từ lần thử đầu tiên- xứng đáng là lựa chọn tuyệt vời dành cho phái nữ.Nhà sản xuất: Bourjois.Xuất xứ: Pháp.Dòng: Kem – lì",
+        "link":"images/BOURJOIS/bj07.jpg"
+    },
+    {
+        "id":"bj8",
+        "name":"Son Bourjois Velvet 09",
+        "price":"215000",
+        "description":"Son Bourjois velvet 09 là dòng son tạo nên cơn sốt không nhỏ trên thế giới thời gian qua, được các blogger khắp nơi tung hô là dạng son đỉnh của đỉnh, Son velvet 06 với chất son nhiều ưu điểm vượt trội cùng sắc hồng fuchsia kiêu sa, rự rỡ quyến rũ chắc chắn sẽ làm say lòng bạn từ lần thử đầu tiên- xứng đáng là lựa chọn tuyệt vời dành cho phái nữ.Nhà sản xuất: Bourjois.Xuất xứ: Pháp.Dòng: Kem – lì",
+        "link":"images/BOURJOIS/bj09.jpg"
+    },
+    {
+        "id":"bj9",
+        "name":"Son Bourjois Velvet 10",
+        "price":"250000",
+        "description":"Son Bourjois velvet 10 là dòng son tạo nên cơn sốt không nhỏ trên thế giới thời gian qua, được các blogger khắp nơi tung hô là dạng son đỉnh của đỉnh, Son velvet 06 với chất son nhiều ưu điểm vượt trội cùng sắc hồng fuchsia kiêu sa, rự rỡ quyến rũ chắc chắn sẽ làm say lòng bạn từ lần thử đầu tiên- xứng đáng là lựa chọn tuyệt vời dành cho phái nữ.Nhà sản xuất: Bourjois.Xuất xứ: Pháp.Dòng: Kem – lì",
+        "link":"images/BOURJOIS/bj10.jpg"
+    },
+    {
+       "id":"bj10",
+       "name":"Son Bourjois Velvet 11",
+       "price":"270000",
+       "description":"Son Bourjois velvet 11 là dòng son tạo nên cơn sốt không nhỏ trên thế giới thời gian qua, được các blogger khắp nơi tung hô là dạng son đỉnh của đỉnh, Son velvet 06 với chất son nhiều ưu điểm vượt trội cùng sắc hồng fuchsia kiêu sa, rự rỡ quyến rũ chắc chắn sẽ làm say lòng bạn từ lần thử đầu tiên- xứng đáng là lựa chọn tuyệt vời dành cho phái nữ.Nhà sản xuất: Bourjois.Xuất xứ: Pháp.Dòng: Kem – lì",
+       "link":"images/BOURJOIS/bj11.jpg"
+   },
+   {
+    "id":"mac2",
+    "name":"Son Mac_gorgeous",
+    "price":"600000",
+    "description":"Son MAC – thương hiệu son môi đình đám thế giới khiến phái đẹp trầm trồ ngưỡng mộ với bộ sưu tập bảng màu hiện tại lên đến hơn 250 màu son. Son MAC là loại son lì không gây khô môi hay bết dính có mức giá khá mềm đối với một sản phẩm thời trang hàng đầu thế giới. Chính vì thế sở hữu một thỏi son môi thần kỳ nổi tiếng toàn cầu này là mong ước của hàng triệu cô gái.",
+    "link":"images/MAC/Mac_gorgeous.png"
+},
+{
+    "id":"mac3",
+    "name":"Son Mac_lady",
+    "price":"645000",
+    "description":"Son MAC – thương hiệu son môi đình đám thế giới khiến phái đẹp trầm trồ ngưỡng mộ với bộ sưu tập bảng màu hiện tại lên đến hơn 250 màu son. Son MAC là loại son lì không gây khô môi hay bết dính có mức giá khá mềm đối với một sản phẩm thời trang hàng đầu thế giới. Chính vì thế sở hữu một thỏi son môi thần kỳ nổi tiếng toàn cầu này là mong ước của hàng triệu cô gái.",
+    "link":"images/MAC/Mac_lady.png"
+},
+{
+    "id":"mac4",
+    "name":"Son Mac_matte",
+    "price":"670000",
+    "description":"Son MAC – thương hiệu son môi đình đám thế giới khiến phái đẹp trầm trồ ngưỡng mộ với bộ sưu tập bảng màu hiện tại lên đến hơn 250 màu son. Son MAC là loại son lì không gây khô môi hay bết dính có mức giá khá mềm đối với một sản phẩm thời trang hàng đầu thế giới. Chính vì thế sở hữu một thỏi son môi thần kỳ nổi tiếng toàn cầu này là mong ước của hàng triệu cô gái.",
+    "link":"images/MAC/Mac_matte.png"
+},
+{
+    "id":"mac5",
+    "name":"Son Mac_pigeon",
+    "price":"650000",
+    "description":"Son MAC – thương hiệu son môi đình đám thế giới khiến phái đẹp trầm trồ ngưỡng mộ với bộ sưu tập bảng màu hiện tại lên đến hơn 250 màu son. Son MAC là loại son lì không gây khô môi hay bết dính có mức giá khá mềm đối với một sản phẩm thời trang hàng đầu thế giới. Chính vì thế sở hữu một thỏi son môi thần kỳ nổi tiếng toàn cầu này là mong ước của hàng triệu cô gái.",
+    "link":"images/MAC/Mac_pigeon.png"
+},
+{
+   "id":"ysl5",
+   "name":"Son YSL 205",
+   "price":"850000",
+   "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+   "link":"images/YSL/ysl205.jpg"
+},
+{
+  "id":"ysl6",
+  "name":"Son YSL 206",
+  "price":"855000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl206.jpg"
+},
+{
+  "id":"ysl7",
+  "name":"Son YSL 207",
+  "price":"865000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl207.jpg"
+},
+{
+  "id":"ysl8",
+  "name":"Son YSL 208",
+  "price":"870000",
+  "description":"Son YSL – thương hiệu son môi cao cấp của Pháp khiến phái đẹp ưu chuộng. Thiết kế sang trọng đẳng cấp với lớp vỏ vàng hoàng kim quý phái. Bảng màu ấn tượng cùng chất son lì chiết xuất từ những thành phần tự nhiên, bảo vệ đôi môi bạn gái suốt ngày dài. Son YSL hứa hẹn là người bạn đồng hành giúp các cô nàng bung tỏa sự quyến rũ.",
+  "link":"images/YSL/ysl208.jpg"
+}
+
+
+]
+}
