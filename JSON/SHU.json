@@ -1,0 +1,95 @@
+{
+    "array":[
+        {
+            "id":"sh1",
+            "name":"Son Shu 144",
+            "price":"560000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu144.jpg"
+        },
+        {
+            "id":"sh2",
+            "name":"Son Shu 150",
+            "price":"565000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu150.jpg"
+        },
+        {
+            "id":"sh3",
+            "name":"Son Shu 156",
+            "price":"555000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu156.jpg"
+        },
+        {
+            "id":"sh4",
+            "name":"Son Shu 160 ",
+            "price":"540000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu160.png"
+        },
+        {
+            "id":"sh5",
+            "name":"Son Shu 164",
+            "price":"600000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản,dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu164.jpg"
+        },
+        {
+            "id":"sh6",
+            "name":"Son Shu 175",
+            "price":"560000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu175.jpg"
+        },
+        {
+            "id":"sh7",
+            "name":"Son Shu 187",
+            "price":"520000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu187.jpg"
+        },
+        {
+            "id":"sh8",
+            "name":"Son Shu 227",
+            "price":"515000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu227.jpg"
+        },
+        {
+            "id":"sh9",
+            "name":"Son Shu 245",
+            "price":"500000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu245.jpg"
+        },
+        {
+            "id":"sh10",
+            "name":"Son Shu 266",
+            "price":"520000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu266.jpg"
+        },
+        {
+            "id":"sh11",
+            "name":"Son Shu 285 ",
+            "price":"530000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu285.jpg"
+        },
+        {
+            "id":"sh12",
+            "name":"Son Shu 330",
+            "price":"535000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu330.jpg"
+        },
+        {
+            "id":"sh13",
+            "name":"Son Shu 344",
+            "price":"565000",
+            "description":"Son Shu Uemura – thương hiệu son môi cao cấp đến từ đất nước Nhật Bản, dòng son được phái đẹp tin dùng và lựa chọn nhiều nhất trong thời gian qua. Ghi điểm bởi thiết kế tinh tế với lớp vỏ kim loại, nắp nhựa trong suốt cùng chất son lì hoàn hảo, 100% không chứa chì lên môi mềm mịn như lụa. Shu Uemura hứa hẹn sẽ mang lại cho bạn vẻ đẹp kiêu sa và quyến rũ đến bất ngờ.",
+            "link":"images/SHU/shu344.jpg"
+        }
+    ]
+}
